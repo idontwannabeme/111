@@ -1,0 +1,15 @@
+html {
+	background-color: #2A7BCB;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+button {
+	margin-left: 900px;
+	border: 1px;
+	background-color: white;
+padding: 5px;
+
+	}
